@@ -1,0 +1,33 @@
+#![allow(unused)]
+
+pub mod _0001_two_sum;
+pub mod _0002_add_two_numbers;
+pub mod _0003_longest_substring_without_repeating_characters;
+pub mod _0004_median_of_two_sorted_arrays;
+pub mod _0006_zig_zag_conversion;
+pub mod _0007_reverse_integer;
+pub mod _0008_string_to_integer_atoi;
+pub mod _0009_palindrome_number;
+pub mod _0011_container_with_most_water;
+pub mod _0012_integer_to_roman;
+pub mod _0013_roman_to_integer;
+pub mod _0014_longest_common_prefix;
+pub mod _0015_3sum;
+pub mod _0017_letter_combinations_of_a_phone_number;
+pub mod _0018_4sum;
+pub mod _0020_valid_parenthesis;
+pub mod _0021_merge_two_sorted_lists;
+pub mod _0022_generate_parentheses;
+pub mod _0026_remove_duplicates_from_sorted_array;
+pub mod _0027_remove_element;
+pub mod _0028_find_the_index_of_the_first_occurence_in_a_string;
+pub mod _0035_search_insert_position;
+pub mod _0058_length_of_last_word;
+pub mod _0066_plus_one;
+pub mod _0067_add_binary;
+pub mod _0069_sqrt_x;
+pub mod _0070_climbing_stairs;
+pub mod _0083_remove_duplicates_from_sorted_list;
+pub mod _0088_merge_sorted_array;
+pub mod _1877_minimize_maximum_pair_sum_in_array;
+pub mod _1980_find_unique_binary_string;
